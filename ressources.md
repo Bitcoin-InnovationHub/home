@@ -8,14 +8,19 @@ redirect_from:
 toc: true
 ---
 
-## Contribute a project
+Contribute projects to the Bitcoin InnovationHub
 
+Projects will be implemented in this website by adding them to this GitHub Repository.
 You have to create your own GitHub repository for each individual project. Otherwise you can fork this repository, present your idea and create a Pull Request afterwards.
 
+## Contribute a project
 
 1. On GitHub, navigate to this site's repository.
+
 2. Navigate to the _posts directory.
+
 3. Create a new file called YYYY-MM-DD-NAME-OF-POST.md, replacing YYYY-MM-DD with the date of your post and NAME-OF-POST with the name of your post.
+
 4. Add the following YAML frontmatter to the top of the file, replacing POST TITLE with the post's title, YYYY-MM-DD hh:mm:ss -0000 with the date and time for the      post, and CATEGORY-1 and CATEGORY-2 with as many categories you want for your post.
 
   ```
