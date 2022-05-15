@@ -8,12 +8,6 @@ redirect_from:
 toc: true
 ---
 
-Contribute projects to the Bitcoin InnovationHub
-
-Projects will be implemented in this website by adding them to this GitHub Repository.
-
-
-
 ## Contribute a project
 
 You have to create your own GitHub repository for each individual project. Otherwise you can fork this repository, present your idea and create a Pull Request afterwards.
@@ -48,4 +42,5 @@ You have to create your own GitHub repository for each individual project. Other
 12. If prompted, type a commit message, or accept the default message.
 
 13. Click Confirm merge.
+
 14. Optionally, delete the branch. For more information, see "[Creating and deleting branches within your repository](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)".
