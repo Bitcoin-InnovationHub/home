@@ -1,51 +1,97 @@
 ---
-title: "Quick-Start Guide"
-permalink: /_docs/ressources/
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
-last_modified_at: 2022-13-05T08:48:05-04:00
-redirect_from:
-  - /theme-setup/
-toc: true
+title: Pricing
+heading: Find the perfect plan for your business
+description: All plans include our award winning sales optimization solution to track your sales in real time.
+pricing_table:
+  - name: Basic
+    color: "#8e8e8e"
+    features:
+      - text: $25 per month
+        highlight: true
+      - text: Up to 5 users
+        highlight: false
+      - text: Basic lead scoring
+        highlight: false
+      - text: CRM
+        highlight: false
+      - text: Basic reporting
+        highlight: false
+      - text: Sales map
+        highlight: false
+    call_to_action:
+      link: http://mysite.com?plan=basic
+      text: Get started
+  - name: Pro
+    color: "#4a4a4a"
+    features:
+      - text: $99 per month
+        highlight: true
+      - text: Everything in Basic
+        highlight: false
+      - text: Up to 25 users
+        highlight: false
+      - text: Advanced lead scoring
+        highlight: false
+      - text: Pipeline management
+        highlight: false
+      - text: Advanced reporting
+        highlight: false
+    call_to_action:
+      link: http://mysite.com?plan=pro
+      text: Get started
+  - name: Professional
+    color: "#000000"
+    features:
+      - text: $299 per month
+        highlight: true
+      - text: Everything in Basic and Pro
+        highlight: false
+      - text: Up to 100 users
+        highlight: false
+      - text: Campaign builder
+        highlight: false
+      - text: Machine learning
+        highlight: false
+      - text: Calendar
+        highlight: false
+    call_to_action:
+      link: http://mysite.com?plan=professional
+      text: Get started
+faq:
+  - question: What types of payment do you accept?
+    answer: Credit cards including MasterCard, Visa or American Express.
+  - question: Can I change my plan at a later time?
+    answer: Yes, you can upgrade and downgrade your plan at anytime.
+  - question: Do you offer pricing for nonprofit organizations?
+    answer: Yes, send us a message and we'll set you up on our nonprofit pricing.
+  - question: Questions?
+    answer: Contact us for any further questions at <a href="#">john@business.com</a>.
 ---
+<div class="plans">
+	{% for plan in page.pricing_table %}
+		<ul class="plan">
+			<li style="background: {{ plan.color }}">
+				<h3>{{ plan.name }}</h3>
+			</li>
+			{% for feature in plan.features %}
+				<li {% if feature.highlight %} class="highlighted"{% endif %}>{{ feature.text }}</li>
+			{% endfor %}
 
-Contribute projects to the Bitcoin InnovationHub
+			{% if plan.call_to_action %}
+				<li class="pricing-cta"><div class="button"><a style="background: {{ plan.color }}" href="{{ plan.call_to_action.link }}">{{ plan.call_to_action.text }} &rarr;</a></div></li>
+			{% endif %}
+		</ul>
+	{% endfor %}
+</div>
 
-Projects will be implemented in this website by adding them to this GitHub Repository.
-
-
-
-## Contribute a project
-
-You have to create your own GitHub repository for each individual project. Otherwise you can fork this repository, present your idea and create a Pull Request afterwards.
-
-
-1. On GitHub, navigate to this site's repository.
-2. Navigate to the _posts directory.
-3. Create a new file called YYYY-MM-DD-NAME-OF-POST.md, replacing YYYY-MM-DD with the date of your post and NAME-OF-POST with the name of your post.
-4. Add the following YAML frontmatter to the top of the file, replacing POST TITLE with the post's title, YYYY-MM-DD hh:mm:ss -0000 with the date and time for the      post, and CATEGORY-1 and CATEGORY-2 with as many categories you want for your post.
-
-  ```
-  layout: post
-  title: "POST TITLE"
-  date: YYYY-MM-DD hh:mm:ss -0000
-  categories: CATEGORY-1 CATEGORY-2
-  ```
-
-5. Below the frontmatter, add content for your post.
-
-6. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one     author in the commit message.
-
-7. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. For more information, see "[Creating a new pull request](https://docs.github.com/en/articles/creating-a-pull-request)".
- 
-8. Click Propose file change
-
-9. Create a pull request for your proposed changes.
-
-10. In the "Pull Requests" list, click the pull request you would like to merge.
-  
-11. Click Merge pull request. For more information, see "[Merging a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)".
-
-12. If prompted, type a commit message, or accept the default message.
-
-13. Click Confirm merge.
-14. Optionally, delete the branch. For more information, see "[Creating and deleting branches within your repository](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)".
+{% if page.faq %}
+	<h2>Pricing FAQ</h2>
+	<dl class="faq">
+		{% for item in page.faq %}
+			<div>
+				<dt>{{ item.question }}</dt>
+				<dd>{{ item.answer }}</dd>
+			</div>
+		{% endfor %}
+	</dl>
+{% endif %}
