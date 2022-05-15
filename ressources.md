@@ -15,9 +15,9 @@ You have to create your own GitHub repository for each individual project. Other
 
 ## Contribute a project
 
-1. On GitHub, navigate to this site's repository.
+1. On GitHub, navigate to this [site's repository](https://github.com/Bitcoin-InnovationHub/home).
 
-2. Navigate to the _posts directory.
+2. Navigate to the [_posts directory](https://github.com/Bitcoin-InnovationHub/home/tree/main/_posts).
 
 3. Create a new file called YYYY-MM-DD-NAME-OF-POST.md, replacing YYYY-MM-DD with the date of your post and NAME-OF-POST with the name of your post.
 
