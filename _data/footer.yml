@@ -8,8 +8,8 @@
   - name: Contact
     link: /contact/
 - links:
-  - name: Login
-    link: /
+  - name: Research
+    link: /research/
     new_window: true
   - name: Sign Up
     link: /
