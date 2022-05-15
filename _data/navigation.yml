@@ -14,8 +14,8 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /ressources/
+- name: Research
+  link: /research/
   new_window: false
   highlight: false
 - name: Sign Up
