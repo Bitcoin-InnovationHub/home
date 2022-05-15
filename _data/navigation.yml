@@ -15,7 +15,7 @@
   new_window: false
   highlight: false
 - name: Login
-  link: /ressources
+  link: /ressources.html
   new_window: false
   highlight: false
 - name: Sign Up
