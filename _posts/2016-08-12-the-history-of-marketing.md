@@ -1,6 +1,6 @@
 ---
 date: 2020-08-12
-title: The history of marketing
+title: The history of marketing    &#127468;&#127463;
 categories:
   - marketing
 author_staff_member: robin
