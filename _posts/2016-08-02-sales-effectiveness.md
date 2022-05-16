@@ -1,6 +1,6 @@
 ---
 date: 2020-08-02
-title: Sales effectiveness
+title: Sales effectiveness    &#127468;&#127463;
 categories:
   - sales
   - tips
