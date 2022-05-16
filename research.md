@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: "Reearch"
+title: "Research"
 permalink: /research/
 excerpt: "Fundamental Research"
 redirect_from:
