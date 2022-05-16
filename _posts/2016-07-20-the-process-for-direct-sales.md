@@ -1,6 +1,6 @@
 ---
 date: 2020-07-20
-title: The process for direct sales
+title: The process for direct sales    &#127468;&#127463;
 categories:
   - sales
 author_staff_member: anna
