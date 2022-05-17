@@ -3,10 +3,11 @@ date: 2022-05-16
 title: Bitcoin Microfinance via the Lightning Network  &#127465;&#127466;
 categories:
   - Development Aid
+  - &#9889;
 author_staff_member: anna
 ---
 
-Fallstudie für ein nachhaltiges, inklusives, digitales Ökosystem auf Bitcoin-Basis
+Fallstudie für ein nachhaltiges, inklusives, digitales Ökosystem auf Bitcoin
 
 <section class="testimonial">
 		<div class="container flex">
