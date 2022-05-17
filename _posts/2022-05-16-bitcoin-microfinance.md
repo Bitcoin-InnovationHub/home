@@ -5,6 +5,9 @@ categories:
   - Development Aid
 author_staff_member: anna
 ---
+
+Fallstudie für ein grünes inklusives digitales Ökosystem auf Bitcoin
+
 <section class="testimonial">
 		<div class="container flex">
 			<div class="testimonial-block">
