@@ -19,8 +19,11 @@ author_staff_member: anna
 
 ## Regulatorische Voraussetzungen
 
+## Praktische Voraussetzungen
 
-## Potentielle Projektpartner
+## Unterstützung
+
+# Potentielle Projektpartner
 1. [Europäische Investitionsbank](https://www.eib.org/de/index.htm)
 2. [DEG Deutsche Investitions- und Entwicklungsgesellschaft](https://www.deginvest.de/)
 3. [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)](https://www.giz.de/de/html/index.html)
