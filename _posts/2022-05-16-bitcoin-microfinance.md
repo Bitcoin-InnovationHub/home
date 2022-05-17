@@ -8,12 +8,11 @@ author_staff_member: anna
 
 <section class="testimonial">
 		<div class="container flex">
-			<div class="testimonial-block">
-				<div class="square-image"><img src="{{ site.baseurl }}/images/satoshi.jpg" alt="Jim James" class="editable"></div>		       
+			<div class="testimonial-block">	     
 				<blockquote>
-					<p class="editable">Wenn Sie das Leben dieser Menschen verändern wollen, bringen Sie ihnen etwas über Finanzen bei. Keiner lehrte uns je, was Geld ist. Zu lange hat sich die gleiche Geschichte immer und immer wiederholt: Das Geld, das wir jeden Monat verdienen, wird sofort ohne Nachdenken ausgegeben.</p>
+					<p class="editable">Wenn Sie das Leben dieser Menschen verändern wollen, bringen Sie ihnen etwas über Finanzen bei. Keiner lehrte uns je, was Geld ist. Zu lange hat sich die gleiche Geschichte immer und immer wiederholt: Das Geld, das wir jeden Monat verdienen, wird sofort ohne Nachdenken ausgegeben.</p>s
 <p class="editable author.</p>
-					<p class="Roman Martínez – El Zonte, El Salvador"></p>
+					<p class="editable author">Roman Martínez – El Zonte, El Salvador"></p>
 				</blockquote>
 			</div>
 		</div>
