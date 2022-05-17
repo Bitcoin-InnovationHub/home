@@ -6,7 +6,7 @@ categories:
 author_staff_member: anna
 ---
 
-Fallstudie für ein grünes inklusives digitales Ökosystem auf Bitcoin
+Fallstudie für ein nachhaltiges, inklusives, digitales Ökosystem auf Bitcoin-Basis
 
 <section class="testimonial">
 		<div class="container flex">
@@ -22,6 +22,11 @@ Fallstudie für ein grünes inklusives digitales Ökosystem auf Bitcoin
 # Hintergrund
 
 # Machbarkeit
+
+## Umsetzung 
+### Digital Lending
+
+### Digital Saving
 
 ## Regulatorische Voraussetzungen
 
