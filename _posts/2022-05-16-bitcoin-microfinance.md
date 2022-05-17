@@ -15,6 +15,12 @@ author_staff_member: anna
 			</div>
 	</section>
 
+# Einleitung
+
+# Machbarkeit
+
+## Regulatorische Voraussetzungen
+
 
 ## Potentielle Projektpartner
 1. [Europäische Investitionsbank](https://www.eib.org/de/index.htm)
