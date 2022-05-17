@@ -3,7 +3,6 @@ date: 2022-05-16
 title: Bitcoin Microfinance via the Lightning Network [Work in Progress] &#127465;&#127466;
 categories:
   - Development Aid
-  - &#9889;
 author_staff_member: anna
 ---
 
