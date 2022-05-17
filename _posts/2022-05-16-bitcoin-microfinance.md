@@ -13,7 +13,7 @@ author_staff_member: anna
 				<blockquote>
 					<p class="editable">Wenn Sie das Leben dieser Menschen verändern wollen, bringen Sie ihnen etwas über Finanzen bei. Keiner lehrte uns je, was Geld ist. Zu lange hat sich die gleiche Geschichte immer und immer wiederholt: Das Geld, das wir jeden Monat verdienen, wird sofort ohne Nachdenken ausgegeben.</p>
 <p class="editable author.</p>
-					<p class="editable author">Roman Martínez – El Zonte, El Salvador</p>
+					<p class="Roman Martínez – El Zonte, El Salvador"></p>
 				</blockquote>
 			</div>
 		</div>
