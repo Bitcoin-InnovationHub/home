@@ -13,7 +13,7 @@ author_staff_member: anna
 
 #Potentielle Projektpartner
 1. [Europäische Investitionsbank](https://www.eib.org/de/index.htm)
-2. [DEG Deutsche Investitions und Entwicklungsgesellschaft](DEG - Deutsche Investitions- und Entwicklungsgesellschaft)
+2. [DEG Deutsche Investitions- und Entwicklungsgesellschaft](https://www.deginvest.de/)
 3. [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)](https://www.giz.de/de/html/index.html)
 4. [Alliance for Financial Inclusion (AFI)](https://www.afi-global.org/)
 5. [European Microfinance Network](https://www.european-microfinance.org/)
