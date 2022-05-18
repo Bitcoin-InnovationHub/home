@@ -36,7 +36,6 @@ Realisierbare Geschäftsmodelle nach deutschem Recht:
 
 5.	Einlagengeschäft über eine Frontingbank/Partnerbank
 
-
 Für die Fälle 2 bis 4 bedarf es einer Zulassung als Kreditinstitut bzw. als Finanzdienstleistungsinsti-tut nach § 32 KWG.  § 33 Abs. 1 Satz 1 Nr. 1 KWG schreibt für diese Fälle eine Kapitaleinlage von mindestens 5 Mio. EUR vor.
 Alternative:
 Auslagerung; Die Kooperation zwischen Bank und Startup kann als Auslagerung auf das FinTech stattfinden. In diesem Fall muss die Bank gem. §§ 25b, 25c Abs. 4a Nr. 6 KWG darauf achten, dass das FinTech bestimmte aufsichtsrechtliche Anforderungen erfüllt. Dazu gehört auch, mit einer schriftlich fixierten Struktur und klaren Zuständigkeiten eine ordnungsgemäße Organisation nach-zuweisen.
@@ -52,8 +51,11 @@ Verpflichtete sind gem. § 2 Nr. 1 KryptoWTransferV Verpflichtete nach § 2 Abs.
 Gem. § 4 KryptoWTransferV besteht für Verpflichtete eine Pflicht zur Erhebung und Speicherung von Daten bei Transfers, an denen nicht ausschließlich Kryptowertedienstleister beteiligt sind:
  <ul>
   <li>Gem. Abs. 1 haben Verpflichtete, die für den Auftraggeber einen Transfer vornehmen, oh-ne dass für den Begünstigten dieses Transfers ein Kryptowertedienstleister handelt, haben das mit dem Transfer verbundene Risiko des Missbrauchs zum Zwecke der Geldwäsche und Terrorismusfinanzierung zu ermitteln und zu bewerten sowie risikoangemessene Maßnahmen zu treffen, um die Risiken von Geldwäsche und Terrorismusfinanzierung zu steuern und zu mindern.</li>
+
   <li>Gem. Abs. 2 gilt das Gleiche für Verpflichtete, die für den Begünstigten einen Transfer ent-gegennehmen, ohne dass für den Auftraggeber dieses Transfers ein Kryptowertedienstleis-ter handelt.</li>
+
   <li>Gem. Ab. 3 sind Risikoangemessene Maßnahmen im Sinne der Abs. 1 und 2 Maßnahmen, die dem ermittelten Risiko des Transfers in Bezug auf Geldwäsche und Terrorismusfinan-zierung entsprechen und die die Nachvollziehbarkeit des Transfers gewährleisten. Risiko-angemessen ist insbesondere die Maßnahme der Erhebung, Speicherung und Überprüfung von Name und Anschrift des Begünstigten oder des Auftraggebers, für den kein Kryptower-tedienstleister bei dem Transfer handelt und der nicht Vertragspartner des Verpflichteten ist.</li>
+
 </ul> 
 
 Es gelten ferner die allgemeinen Sorgfaltspflichten gem. § 10 GwG. Gem. § 10 Abs. 3 Nr. 2 lit. c GwG sind die allgemeinen Sorgfaltspflichten von Verpflichteten zu erfüllen bei Transaktionen, die au-ßerhalb einer Geschäftsbeziehung durchgeführt werden, wenn es sich um die Übertragung von Kryptowerten handelt, die zum Zeitpunkt der Übertragung einem Gegenwert von 1 000 Euro oder mehr entspricht.
