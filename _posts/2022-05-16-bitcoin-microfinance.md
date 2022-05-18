@@ -27,10 +27,15 @@ Fallstudie für ein nachhaltiges, inklusives, digitales Ökosystem auf Bitcoin
 ### Digital Lending
 Realisierbare Geschäftsmodelle nach deutschem Recht:
 1.	Darlehensvermittlung, § 34c Abs. 1 S. 1 Nr. 2 GewO
+
 2.	Kryptoverwahrgeschäft, § 1 Abs. 1a S. 2 Nr. 6 KWG
+
 3.	Finanzkommissionsgeschäft, § 1 Abs. 1 Nr. 4 KWG
+
 4.	Einlagengeschäft mit selbstverwaltetem Kryptowerten, § 1 Abs. 1 Nr. 1 KWG
+
 5.	Einlagengeschäft über eine Frontingbank/Partnerbank
+
 
 Für die Fälle 2 bis 4 bedarf es einer Zulassung als Kreditinstitut bzw. als Finanzdienstleistungsinsti-tut nach § 32 KWG.  § 33 Abs. 1 Satz 1 Nr. 1 KWG schreibt für diese Fälle eine Kapitaleinlage von mindestens 5 Mio. EUR vor.
 Alternative:
