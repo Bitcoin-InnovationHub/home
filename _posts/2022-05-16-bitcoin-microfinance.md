@@ -175,6 +175,7 @@ Vergleich AuxMoney (Deutscher P2P-Anbieter)
 - Eintragung ins Vermittlerregister (www.vermittlerregister.info)
 
 Schlichtungsstelle bei der Deutschen Bundesbank
+
 Postfach 10 06 02
 60006 Frankfurt am Main
 Wilhelm-Epstein-Straße 14
