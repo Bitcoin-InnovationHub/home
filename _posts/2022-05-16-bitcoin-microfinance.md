@@ -18,7 +18,7 @@ Table of Contents
     	- [Änderung ab 2022 durch MiCAR](#Änderung-ab-2022-durch-MiCAR)
     	- [Darlehensvermittler (§ 34c Abs. 1 S. 1 GewO)](#Darlehensvermittler-(§-34c-Abs.-1-S.-1-GewO))
     	- [Erlaubnispflicht für das Kryptoverwahrgeschäft nach deutschem Recht](#Erlaubnispflicht-für-das-Kryptoverwahrgeschäft-nach-deutschem-Recht)
-    	- Erlaubnispflicht für das Geschäft mit virtuellen Währungen (VC) nach deutschem Recht](#Erlaubnispflicht-für-das-Geschäft-mit-virtuellen-Währungen-(VC)-	nach-deutschem-Recht))
+    	- Erlaubnispflicht für das Geschäft mit virtuellen Währungen nach deutschem Recht](#Erlaubnispflicht-für-das-Geschäft-mit-virtuellen-Währungen-nach-deutschem-Recht))
     - [Praktische Voraussetzungen](#Praktische-Voraussetzungen)
 - [Unterstützung](#Unterstützung)
     - [Community](#Community)
@@ -156,7 +156,7 @@ Die Erlaubnis zur Darlehensvermittlung kann auch einer Gesellschaft erteilt werd
 § 1 Abs. 1a S. 2 Nr. 6 KWG definiert das Kryptoverwahrgeschäft als die Verwahrung, die Verwaltung und die Sicherung von Kryptowerten oder privaten kryptografischen Schlüsseln, die dazu dienen, Kryptowerte zu halten, zu speichern und zu übertragen, für andere. Verwahrung im Sinne dieser Vorschrift bedeutet die Inobhutnahme der Kryptowerte als Dienstleistung für Dritte. Erfasst sind damit vor allem Dienstleister, die Kryptowerte ihrer Kunden in einem Sammelbestand aufbewah-ren, ohne dass die Kunden selbst Kenntnis von den dabei verwendeten kryptografischen Schlüsseln haben. 
 Fallen Kryptowerte unter den Finanzinstrumentebegriff des Art. 2 Abs. 1 Nr. 8 der Verordnung 2014/909/EU (Zentralverwahrerverordnung, CSDR) und wird ein Wertpapierliefer- und abrech-nungssystem nach Abschnitt A des Anhangs der Zentralverwahrerverordnung betrieben und we-nigstens eine weitere Kerndienstleistung nach Abschnitt A des Anhangs erbracht, ist die Verwah-rung der Kryptowerte die Tätigkeit eines Zentralverwahrers im Sinne des § 1 Abs. 1 Satz 2 Nr. 6 KWG; § 1 Abs. 1a Satz 2 Nr. 6 KWG tritt auch dahinter zurück. Art. 16 Abs. 1 CSDR hat, benötigt es für die Verwahrung von Security-Token, bei denen es sich aufgrund ihrer konkreten Ausgestaltung um Wertpapiere im Sinne der CSDR und der MiFID II handelt, keine gesonderte Erlaubnis für das Erbringen des Kryptoverwahrgeschäfts. 
 
-### Erlaubnispflicht für das Geschäft mit virtuellen Währungen (VC) nach deutschem Recht
+### Erlaubnispflicht für das Geschäft mit virtuellen Währungen nach deutschem Recht
 Bitcoin stellen als Kryptowerte nach § 1 Abs. 11 Satz 1 Nr. 10 KWG Finanzinstrumente dar.
 Derjenige, der im eigenen Namen gewerbsmäßig VC für fremde Rechnung an- und verkauft, be-treibt ein erlaubnispflichtiges Finanzkommissionsgeschäft, vgl. § 1 Abs. 1 Nr. 4 KWG. 
 Die Anschaffung oder Veräußerung der VC erfolgt für fremde Rechnung, wenn die wirtschaftlichen Vor- und Nachteile aus diesem Geschäft den Auftraggeber treffen. Des Weiteren muss die Tätigkeit dem Kommissionsgeschäft nach dem Handelsgesetzbuch hinreichend ähnlich sein, wobei einzelne Rechte und Pflichten vom typischen Kommissionsgeschäft abweichen können. Bei VC-Plattformen ist daher das erlaubnispflichtige Finanzkommissiongeschäft erfüllt, wenn: 
