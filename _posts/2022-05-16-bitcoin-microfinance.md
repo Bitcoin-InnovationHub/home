@@ -14,7 +14,9 @@ Table of Contents
     	- [Digital Saving](#Digital-Saving)
     - [Regulatorische Voraussetzungen](#Regulatorische-Voraussetzungen)
     	- [Kryptowertetransferverordnung (KryptoWTransferV)](#Kryptowertetransferverordnung-KryptoWTransferV)
-    	- [Wertpapierinstitutsgesetz (WpIG)](Wertpapierinstitutsgesetz-WpIG)
+    	- [Wertpapierinstitutsgesetz (WpIG)](#Wertpapierinstitutsgesetz-WpIG)
+    	- [Änderung ab 2022 durch MiCAR](#Änderung-ab-2022-durch-MiCAR)
+    	- [Darlehensvermittler (§ 34c Abs. 1 S. 1 GewO)](#Darlehensvermittler (§ 34c Abs. 1 S. 1 GewO)
   - [Regulatorische Voraussetzungen](#assemble-your-raspiblitz)
   - [Downloading the Software](#downloading-the-software)
   - [Write the SD-Card image to your SD Card](#write-the-sd-card-image-to-your-sd-card)
@@ -127,7 +129,7 @@ Mindestkapitalanforderungen Art. 60 Abs. 1 lit. a MiCAR i.V.m. Anhang IV:
 •	Verwahrung und Verwaltung von Kryptowerten für Dritte, Art. 67 MiCAR
 Anbieter von Krypto-Dienstleistungen, die für die Verwahrung und Verwaltung von Kryptower-ten für Dritte zugelassen sind, schließen mit ihren Kunden eine Vereinbarung, in der ihre Pflich-ten und Aufgaben festgelegt werden.
 
-### Darlehensvermittler, § 34c Abs. 1 S. 1 GewO:
+### Darlehensvermittler, § 34c Abs. 1 S. 1 GewO
 Eine Erlaubnispflicht gem. § 34c Abs. 1 S. 1 GewO besteht nur, wenn die dort aufgeführten Tätig-keiten gewerbsmäßig ausgeübt werden. Dabei gilt grundsätzlich der allgemeine Gewerbebegriff iSd § 1 GewO. Dieser setzt voraus, dass die Tätigkeit – in positiver Hinsicht – selbstständig, erlaubt, auf Gewinnerzielung und gewisse Dauer gerichtet sein muss und – in negativer Hinsicht – keine Urpro-duktion, keinen freien Beruf und nicht die bloße Nutzung oder Verwaltung eigenen Vermögens oder eine andere gewerberechtliche Bagatelle darstellen darf (vgl. etwa BVerwGE 78, 6 (8) = NVwZ 1988, 56).
 Die von § 34c GewO erfassten Gewerbetreibenden haben aus der Gewerbefreiheit des § 1 Abs. 1 GewO sowie der Berufsfreiheit des Art. 12 Abs. 1 S. 1 GG einen Anspruch (subjektives öffentliches Recht) auf Erteilung der Erlaubnis gem. § 34c Abs. 1 S. 1 GewO, wenn sie die gesetzlichen Voraus-setzungen erfüllen. Bei der Erlaubnis handelt es sich um einen gebundenen Verwaltungsakt, der ergehen muss, wenn keiner der Versagungsgründe des § 34c Abs. 2 GewO vorliegt.
 Voraussetzungen einer Erlaubnis gem. § 34c Abs. 1 S. 1 GewO sind:
