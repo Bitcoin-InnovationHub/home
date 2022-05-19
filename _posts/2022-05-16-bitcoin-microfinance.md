@@ -14,6 +14,7 @@ Table of Contents
     	- [Digital Saving](#Digital-Saving)
     - [Regulatorische Voraussetzungen](#Regulatorische-Voraussetzungen)
     	- [Kryptowertetransferverordnung (KryptoWTransferV)](#Kryptowertetransferverordnung-KryptoWTransferV)
+    	- [Wertpapierinstitutsgesetz (WpIG)](Wertpapierinstitutsgesetz-WpIG)
   - [Regulatorische Voraussetzungen](#assemble-your-raspiblitz)
   - [Downloading the Software](#downloading-the-software)
   - [Write the SD-Card image to your SD Card](#write-the-sd-card-image-to-your-sd-card)
@@ -74,7 +75,7 @@ Gem. § 4 KryptoWTransferV besteht für Verpflichtete eine Pflicht zur Erhebung 
 
 Es gelten ferner die allgemeinen Sorgfaltspflichten gem. § 10 GwG. Gem. § 10 Abs. 3 Nr. 2 lit. c GwG sind die allgemeinen Sorgfaltspflichten von Verpflichteten zu erfüllen bei Transaktionen, die au-ßerhalb einer Geschäftsbeziehung durchgeführt werden, wenn es sich um die Übertragung von Kryptowerten handelt, die zum Zeitpunkt der Übertragung einem Gegenwert von 1 000 Euro oder mehr entspricht.
 
-### Wertpapierinstitutsgesetz – WpIG
+### Wertpapierinstitutsgesetz (WpIG)
 Gilt gem. § 2 WpIG für Wertpapierdienstleistungen, einschließlich Kryptowerten (Abs. 3 Nr. 1). Kryptowerte gelten gem. § 2 Abs. 5 Nr. 10 WpIG als Finanzinstrumente. Erlaubnispflicht gem. § 15 WpIG.
 
 ### Änderung ab 2022 durch MiCAR
