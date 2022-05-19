@@ -5,7 +5,17 @@ categories:
   - Development Aid
 author_staff_member: anna
 ---
-
+Table of Contents
+---
+  - [Hintergrund](#Hintergrund)
+  - [Machbarkeit](#Machbarkeit)
+    - [Umsetzung](#Umsetzung)
+    - [Digital Lending](#Digital-Lending)
+  - [Assemble your RaspiBlitz](#assemble-your-raspiblitz)
+  - [Downloading the Software](#downloading-the-software)
+  - [Write the SD-Card image to your SD Card](#write-the-sd-card-image-to-your-sd-card)
+  - [Boot your RaspiBlitz](#boot-your-raspiblitz)
+  - [Support](#support)
 Fallstudie für ein nachhaltiges, inklusives, digitales Ökosystem auf Bitcoin
 
 <section class="testimonial">
