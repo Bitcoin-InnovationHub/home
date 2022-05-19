@@ -177,11 +177,17 @@ Vergleich AuxMoney (Deutscher P2P-Anbieter)
 Schlichtungsstelle bei der Deutschen Bundesbank
 
 Postfach 10 06 02
+
 60006 Frankfurt am Main
+
 Wilhelm-Epstein-Straße 14
+
 60431 Frankfurt am Main
+
 Tel.: +49 69 9566-3232
+
 Fax: +49 69 709090-9901
+
 Website: https://www.bundesbank.de/de/service/schlichtungsstelle
 
 # Unterstützung
