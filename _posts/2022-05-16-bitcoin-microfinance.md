@@ -10,7 +10,8 @@ Table of Contents
   - [Hintergrund](#Hintergrund)
   - [Machbarkeit](#Machbarkeit)
     - [Umsetzung](#Umsetzung)
-    - [Digital Lending](#Digital-Lending)
+    	- [Digital Lending](#Digital-Lending)
+    	- [Digital Saving](#Digital-Saving
   - [Assemble your RaspiBlitz](#assemble-your-raspiblitz)
   - [Downloading the Software](#downloading-the-software)
   - [Write the SD-Card image to your SD Card](#write-the-sd-card-image-to-your-sd-card)
