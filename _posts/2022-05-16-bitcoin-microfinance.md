@@ -64,19 +64,17 @@ Auslagerung; Die Kooperation zwischen Bank und Startup kann als Auslagerung auf 
 [TBD]
 ## Regulatorische Voraussetzungen
 ### Kryptowertetransferverordnung (KryptoWTransferV) 
-Die Verordnung über verstärkte Sorgfaltspflichten bei dem Transfer von Kryptowerten (Kryptowertetransferverordnung - KryptoWTransferV regelt verstärkte Sorgfaltspflichten für Verpflichtete nach § 2 Absatz 1 Nummer 1 und 2 des Geldwäschegesetzes, die Transfers von Kryptowerten im Sinne von § 1 Absatz 29 des Geldwäschegesetzes durchführen.
+Die Verordnung über verstärkte Sorgfaltspflichten bei dem Transfer von Kryptowerten (KryptoWTransferV) regelt verstärkte Sorgfaltspflichten für Verpflichtete nach § 2 Absatz 1 Nummer 1 und 2 des Geldwäschegesetzes, die Transfers von Kryptowerten im Sinne von § 1 Absatz 29 des Geldwäschegesetzes durchführen.
 Das mit dem Transfer von Kryptowerten verbundene Geldwäscherisiko soll durch die am 1. Okto-ber 2021 in Kraft getretene Kryptowertetransferverordnung (KryptoWTransferV) verringert wer-den. Die Anordnung beinhaltet verstärkte Sorgfaltspflichten, die beim Transfer von Kryptowerten zu beachten sind. Die Regelung dient der Umsetzung der internationalen Standards der Financial Action Task Force (FATF) - Empfehlung 15, sogenannte TravelRule. Sie ermöglicht es, Zahlungs-ströme in Form von Kryptowertetransfers in gleicher Weise nachzuvollziehen wie bei Geldtrans-fers. Verpflichtete, die die Bestimmungen der Verordnung – aus Gründen die sie nicht zu vertreten haben - nicht erfüllen können, müssen dies der BaFin gegenüber anzeigen und können von den Pflichten der Verordnung bis zu 24 Monate befreit werden.
 Verpflichtete sind gem. § 2 Nr. 1 KryptoWTransferV Verpflichtete nach § 2 Abs. 1 Nr. 1 und 2 GwG Kreditinstitute nach § 1 Abs. 1 KWG und Finanzdienstleistungsinstitute nach § 1 Abs. 1a KWG.
 Übertragung von Kryptowerten i.S.d § 1 Abs. 30 GwG jeglichen Transfer von Kryptowerten zwi-schen natürlichen oder juristischen Personen im Rahmen der Erbringung von Finanzdienstleistun-gen oder dem Betreiben von Bankgeschäften im Sinne des Kreditwesengesetzes, der nicht aus-schließlich die Kryptoverwahrung im Sinne des § 1 Absatz 1a Satz 2 Nummer 6 des Kreditwesenge-setzes darstellt.
 Gem. § 4 KryptoWTransferV besteht für Verpflichtete eine Pflicht zur Erhebung und Speicherung von Daten bei Transfers, an denen nicht ausschließlich Kryptowertedienstleister beteiligt sind:
- <ul>
-  <li>Gem. Abs. 1 haben Verpflichtete, die für den Auftraggeber einen Transfer vornehmen, oh-ne dass für den Begünstigten dieses Transfers ein Kryptowertedienstleister handelt, haben das mit dem Transfer verbundene Risiko des Missbrauchs zum Zwecke der Geldwäsche und Terrorismusfinanzierung zu ermitteln und zu bewerten sowie risikoangemessene Maßnahmen zu treffen, um die Risiken von Geldwäsche und Terrorismusfinanzierung zu steuern und zu mindern.</li>
 
-  <li>Gem. Abs. 2 gilt das Gleiche für Verpflichtete, die für den Begünstigten einen Transfer ent-gegennehmen, ohne dass für den Auftraggeber dieses Transfers ein Kryptowertedienstleis-ter handelt.</li>
+- Gem. Abs. 1 haben Verpflichtete, die für den Auftraggeber einen Transfer vornehmen, oh-ne dass für den Begünstigten dieses Transfers ein Kryptowertedienstleister handelt, haben das mit dem Transfer verbundene Risiko des Missbrauchs zum Zwecke der Geldwäsche und Terrorismusfinanzierung zu ermitteln und zu bewerten sowie risikoangemessene Maßnahmen zu treffen, um die Risiken von Geldwäsche und Terrorismusfinanzierung zu steuern und zu mindern.
 
-  <li>Gem. Ab. 3 sind Risikoangemessene Maßnahmen im Sinne der Abs. 1 und 2 Maßnahmen, die dem ermittelten Risiko des Transfers in Bezug auf Geldwäsche und Terrorismusfinan-zierung entsprechen und die die Nachvollziehbarkeit des Transfers gewährleisten. Risiko-angemessen ist insbesondere die Maßnahme der Erhebung, Speicherung und Überprüfung von Name und Anschrift des Begünstigten oder des Auftraggebers, für den kein Kryptower-tedienstleister bei dem Transfer handelt und der nicht Vertragspartner des Verpflichteten ist.</li>
+- Gem. Abs. 2 gilt das Gleiche für Verpflichtete, die für den Begünstigten einen Transfer ent-gegennehmen, ohne dass für den Auftraggeber dieses Transfers ein Kryptowertedienstleis-ter handelt.
 
-</ul> 
+- Gem. Ab. 3 sind Risikoangemessene Maßnahmen im Sinne der Abs. 1 und 2 Maßnahmen, die dem ermittelten Risiko des Transfers in Bezug auf Geldwäsche und Terrorismusfinan-zierung entsprechen und die die Nachvollziehbarkeit des Transfers gewährleisten. Risiko-angemessen ist insbesondere die Maßnahme der Erhebung, Speicherung und Überprüfung von Name und Anschrift des Begünstigten oder des Auftraggebers, für den kein Kryptower-tedienstleister bei dem Transfer handelt und der nicht Vertragspartner des Verpflichteten ist.
 
 Es gelten ferner die allgemeinen Sorgfaltspflichten gem. § 10 GwG. Gem. § 10 Abs. 3 Nr. 2 lit. c GwG sind die allgemeinen Sorgfaltspflichten von Verpflichteten zu erfüllen bei Transaktionen, die au-ßerhalb einer Geschäftsbeziehung durchgeführt werden, wenn es sich um die Übertragung von Kryptowerten handelt, die zum Zeitpunkt der Übertragung einem Gegenwert von 1 000 Euro oder mehr entspricht.
 
@@ -86,20 +84,26 @@ Gilt gem. § 2 WpIG für Wertpapierdienstleistungen, einschließlich Kryptowerte
 ### Änderung ab 2022 durch MiCAR
 Institute mit einer MiFID-Lizenz haben die Möglichkeit, unter der MiCAR ihr Geschäft weiter auszu-üben, ohne eine gesonderte Zulassung unter der MiCAR erwerben zu müssen. Auch für E-Geld Institute wird der Übergang zur MiCAR leichter als für neue Marktteilnehmer (Grandfahtering).
 Gem. Art. 53 ff. MiCAR benötigen Dienstleister, die bestimmte Dienstleistungen im Zusammenhang mit Kryptowerten anbieten, eine Erlaubnis und unterstehen der laufenden Aufsicht der Aufsichts-behörde. Hierunter fallen gem. Art. 3 Abs. 1 Nr. 9 MiCAR:
- <ul>
-  <li>Verwahrung und Verwaltung von Kryptowerten für Dritte, Art. 67 MiCAR</li>
-  <li>Betrieb einer Handelsplattform für Kryptowerte, Art. 68 MiCAR</li>
-  <li>Tausch von Kryptowerten gegen Geldwährung, Art. 69 MiCAR</li>
-  <li>Tausch von Kryptowerten gegen andere Kryptowerte, Art. 69 MiCAR</li>
-  <li>Ausführung von Aufträgen über Kryptowerte für Dritte, Art. 70 MiCAR</li>
-  <li>Platzierung von Kryptowerten, Art. 71 MiCAR</li>
-  <li>Annahme und Übermittlung von Aufträgen über Kryptowerte für Dritte, Art. 72 MiCAR</li>
-  <li>Beratung zu Kryptowerten, Art. 73 MiCAR</li>
-</ul> 
 
-Anforderungen an Anbieter von Krypto-Dienstleistungen, Art. 60 MiCAR
-Mindestkapitalanforderungen Art. 60 Abs. 1 lit. a MiCAR i.V.m. Anhang IV:
+- Verwahrung und Verwaltung von Kryptowerten für Dritte, Art. 67 MiCAR
 
+- Betrieb einer Handelsplattform für Kryptowerte, Art. 68 MiCAR
+
+- Tausch von Kryptowerten gegen Geldwährung, Art. 69 MiCAR
+
+- Tausch von Kryptowerten gegen andere Kryptowerte, Art. 69 MiCAR
+
+- Ausführung von Aufträgen über Kryptowerte für Dritte, Art. 70 MiCAR
+
+- Platzierung von Kryptowerten, Art. 71 MiCAR
+ 
+- Annahme und Übermittlung von Aufträgen über Kryptowerte für Dritte, Art. 72 MiCAR
+
+- Beratung zu Kryptowerten, Art. 73 MiCAR
+
+<strong>Anforderungen an Anbieter von Krypto-Dienstleistungen, Art. 60 MiCAR
+
+- Mindestkapitalanforderungen Art. 60 Abs. 1 lit. a MiCAR i.V.m. Anhang IV:</strong>
 	- Klasse 1: 50.000 EUR
 		- Annahme und Übermittlung von Aufträgen für Dritte und/oder
 		- Beratung zu Kryptowerten und/oder
