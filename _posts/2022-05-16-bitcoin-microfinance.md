@@ -168,27 +168,20 @@ Die Anschaffung oder Veräußerung der VC erfolgt für fremde Rechnung, wenn die
 Liegt bei Plattformen kein Finanzkommissionsgeschäft vor, kann es sich um den Betrieb eines mul-tilateralen Handelssystems handeln (vgl. § 1 Abs. 1 Nr. 1b KWG). Dieses bringt die Interessen einer Vielzahl von Personen am Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems nach festgelegten Bestimmungen in einer Weise zusammen, die zu einem Vertrag über diese Finanzin-strumente führt. Dies bedeutet, dass ein Regelwerk über die Mitgliedschaft, den VC-Handel zwi-schen den Mitgliedern und Meldungen über abgeschlossene Geschäfte vorliegt. Eine Handelsplatt-form im technischen Sinne ist nicht erforderlich. Multilateral bedeutet, dass der Betreiber nur die Parteien eines potenziellen Geschäfts über VC zusammenbringt. Als Interesse am Kauf und Verkauf zählen auch Interessenbekundungen, Aufträge und Kursofferten. Eine Vielzahl von Personen be-deutet vor allem, dass es nicht eines Auftrags zur Vermittlung im Einzelfall bedarf. Die Interessen müssen nach dem Regelwerk durch Software oder Protokolle zum Vertragsabschluss zusammenge-führt werden, ohne dass die Parteien im Einzelfall entscheiden können, ob sie ein VC-Geschäft mit einem bestimmten Vertragspartner eingehen wollen. Ob der Vertrag anschließend innerhalb des Systems abgewickelt wird, ist ohne Belang. 
 
 ## Praktische Voraussetzungen
-Vergleich AuxMoney (Deutscher P2P-Anbieter)
-- Erlaubnis zur Darlehensvermittlung nach § 34c Abs. 1 S. 1 Nr. 2 GewO
-- Erlaubnis zur Finanzanlagenvermittlung nach § 34f Abs. 1 S. 1 Nr. 3 GewO
-- Erlaubnis zur Versicherungsvermittlung nach § 34d Abs. 1 GewO 
-- Eintragung ins Vermittlerregister (www.vermittlerregister.info)
+- Vergleich AuxMoney (Deutscher P2P-Anbieter)
+	- Erlaubnis zur Darlehensvermittlung nach § 34c Abs. 1 S. 1 Nr. 2 GewO	
+	- Erlaubnis zur Finanzanlagenvermittlung nach § 34f Abs. 1 S. 1 Nr. 3 GewO
+	- Erlaubnis zur Versicherungsvermittlung nach § 34d Abs. 1 GewO 
+	- Eintragung ins Vermittlerregister (www.vermittlerregister.info)
 
-Schlichtungsstelle bei der Deutschen Bundesbank
-
-Postfach 10 06 02
-
-60006 Frankfurt am Main
-
-Wilhelm-Epstein-Straße 14
-
-60431 Frankfurt am Main
-
-Tel.: +49 69 9566-3232
-
-Fax: +49 69 709090-9901
-
-Website: https://www.bundesbank.de/de/service/schlichtungsstelle
+- Schlichtungsstelle bei der Deutschen Bundesbank
+	- Postfach 10 06 02
+	- 60006 Frankfurt am Main
+	- Wilhelm-Epstein-Straße 14
+	- 60431 Frankfurt am Main
+	- Tel.: +49 69 9566-3232
+	- Fax: +49 69 709090-9901
+	- Website: https://www.bundesbank.de/de/service/schlichtungsstelle
 
 # Unterstützung
 
