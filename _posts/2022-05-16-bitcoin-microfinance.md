@@ -99,26 +99,21 @@ Gem. Art. 53 ff. MiCAR benötigen Dienstleister, die bestimmte Dienstleistungen 
 
 Anforderungen an Anbieter von Krypto-Dienstleistungen, Art. 60 MiCAR
 Mindestkapitalanforderungen Art. 60 Abs. 1 lit. a MiCAR i.V.m. Anhang IV:
- <ol>
-  <li>Klasse 1: 50.000 EUR</li>
-  	<li>Annahme und Übermittlung von Aufträgen für Dritte und/oder</li>
-  	<li>Beratung zu Kryptowerten und/oder</li>
-  	<li>Ausführung von Aufträgen für Dritte und/oder</li>
-  	<li>Platzierung von Kryptowerten</li>
-</ol> 
 
- <ol>
-  <li>Klasse 2: 125.000 EUR
-	Klasse 1 + Verwahrung und Verwaltung von Kryptowerten für Dritte</li>
-</ol> 
+- Klasse 1: 50.000 EUR
+	- Annahme und Übermittlung von Aufträgen für Dritte und/oder
+	- Beratung zu Kryptowerten und/oder
+	- Ausführung von Aufträgen für Dritte und/oder
+	- Platzierung von Kryptowerten
 
- <ol>
-  <li>Klasse 3: 150.000 EUR
-	Klasse 2 +</li>
-  	<li>Tausch von Kryptowerten gegen Nominalgeldwährungen, die gesetzliche Zah-lungsmittel sind</li>
-  	<li>Tausch von Kryptowerten gegen andere Kryptowerte</li>
-  	<li>Betrieb einer Handelsplattform für Kryptowerte</li>
-</ol> 
+- Klasse 2: 125.000 EUR
+Klasse 1 + Verwahrung und Verwaltung von Kryptowerten für Dritte
+
+- Klasse 3: 150.000 EUR
+Klasse 2 +
+	- Tausch von Kryptowerten gegen Nominalgeldwährungen, die gesetzliche Zah-lungsmittel sind
+	- Tausch von Kryptowerten gegen andere Kryptowerte
+- Betrieb einer Handelsplattform für Kryptowerte
 
 •	einem Viertel der jährlich neu berechneten fixen Gemeinkosten des Vorjahres, Art. 60 Abs. 1 lit. b MiCAR; Gemeinkosten = alle Kosten, die nicht direkt einem Produkt oder einer Dienstleis-tung zugeordnet werden können.
 
