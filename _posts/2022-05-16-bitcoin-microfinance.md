@@ -61,7 +61,7 @@ Alternative:
 Auslagerung; Die Kooperation zwischen Bank und Startup kann als Auslagerung auf das FinTech stattfinden. In diesem Fall muss die Bank gem. §§ 25b, 25c Abs. 4a Nr. 6 KWG darauf achten, dass das FinTech bestimmte aufsichtsrechtliche Anforderungen erfüllt. Dazu gehört auch, mit einer schriftlich fixierten Struktur und klaren Zuständigkeiten eine ordnungsgemäße Organisation nach-zuweisen.
 
 ### Digital Saving
-[TBD]
+[TBA]
 ## Regulatorische Voraussetzungen
 ### Kryptowertetransferverordnung (KryptoWTransferV) 
 Die Verordnung über verstärkte Sorgfaltspflichten bei dem Transfer von Kryptowerten (KryptoWTransferV) regelt verstärkte Sorgfaltspflichten für Verpflichtete nach § 2 Absatz 1 Nummer 1 und 2 des Geldwäschegesetzes, die Transfers von Kryptowerten im Sinne von § 1 Absatz 29 des Geldwäschegesetzes durchführen.
@@ -147,6 +147,7 @@ Neben dem ausgefüllten Antrag für § 34c GewO muss eingereicht werden:
 - Bescheinigung des Insolvenzgerichts
 - Führungszeugnis der Belegart O (polizeiliches Führungszeugnis)
 - Auszug aus dem Gewerbezentralregister
+
 Zusätzlich gilt die Verordnung über die Pflichten der Immobilienmakler, Darlehensvermittler, Bau-träger, Baubetreuer und Wohnimmobilienverwalter (MaBV).
 
 Die Erlaubnis zur Darlehensvermittlung kann auch einer Gesellschaft erteilt werden. Dazu müssen alle Gesellschafter und die Gesellschaft selbst die Voraussetzungen der Erlaubnis erfüllen.
@@ -159,18 +160,19 @@ Fallen Kryptowerte unter den Finanzinstrumentebegriff des Art. 2 Abs. 1 Nr. 8 de
 Bitcoin stellen als Kryptowerte nach § 1 Abs. 11 Satz 1 Nr. 10 KWG Finanzinstrumente dar.
 Derjenige, der im eigenen Namen gewerbsmäßig VC für fremde Rechnung an- und verkauft, be-treibt ein erlaubnispflichtiges Finanzkommissionsgeschäft, vgl. § 1 Abs. 1 Nr. 4 KWG. 
 Die Anschaffung oder Veräußerung der VC erfolgt für fremde Rechnung, wenn die wirtschaftlichen Vor- und Nachteile aus diesem Geschäft den Auftraggeber treffen. Des Weiteren muss die Tätigkeit dem Kommissionsgeschäft nach dem Handelsgesetzbuch hinreichend ähnlich sein, wobei einzelne Rechte und Pflichten vom typischen Kommissionsgeschäft abweichen können. Bei VC-Plattformen ist daher das erlaubnispflichtige Finanzkommissiongeschäft erfüllt, wenn: 
-•	die einzelnen Teilnehmer den Plattformen gegenüber bis zur Ausführung der Order wei-sungsbefugt sind, indem sie die Zahl und den Preis der Geschäfte vorgeben,
-•	den jeweiligen Teilnehmern ihre Handelspartner nicht bekannt sind und die Plattform nicht als Vertreter der Teilnehmer, sondern im eigenen Namen auftritt,
-•	die wirtschaftlichen Vor- und Nachteile der Geschäfte die Teilnehmer treffen, die Geld auf Plattform-Konten überweisen oder VC auf deren Adressen übertragen, und
-•	die Plattform verpflichtet ist, den Teilnehmern über die Ausführung der Geschäfte Rechen-schaft abzulegen und angeschaffte VC zu übertragen.
+- die einzelnen Teilnehmer den Plattformen gegenüber bis zur Ausführung der Order wei-sungsbefugt sind, indem sie die Zahl und den Preis der Geschäfte vorgeben,
+- den jeweiligen Teilnehmern ihre Handelspartner nicht bekannt sind und die Plattform nicht als Vertreter der Teilnehmer, sondern im eigenen Namen auftritt,
+- die wirtschaftlichen Vor- und Nachteile der Geschäfte die Teilnehmer treffen, die Geld auf Plattform-Konten überweisen oder VC auf deren Adressen übertragen, und
+- die Plattform verpflichtet ist, den Teilnehmern über die Ausführung der Geschäfte Rechen-schaft abzulegen und angeschaffte VC zu übertragen.
+
 Liegt bei Plattformen kein Finanzkommissionsgeschäft vor, kann es sich um den Betrieb eines mul-tilateralen Handelssystems handeln (vgl. § 1 Abs. 1 Nr. 1b KWG). Dieses bringt die Interessen einer Vielzahl von Personen am Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems nach festgelegten Bestimmungen in einer Weise zusammen, die zu einem Vertrag über diese Finanzin-strumente führt. Dies bedeutet, dass ein Regelwerk über die Mitgliedschaft, den VC-Handel zwi-schen den Mitgliedern und Meldungen über abgeschlossene Geschäfte vorliegt. Eine Handelsplatt-form im technischen Sinne ist nicht erforderlich. Multilateral bedeutet, dass der Betreiber nur die Parteien eines potenziellen Geschäfts über VC zusammenbringt. Als Interesse am Kauf und Verkauf zählen auch Interessenbekundungen, Aufträge und Kursofferten. Eine Vielzahl von Personen be-deutet vor allem, dass es nicht eines Auftrags zur Vermittlung im Einzelfall bedarf. Die Interessen müssen nach dem Regelwerk durch Software oder Protokolle zum Vertragsabschluss zusammenge-führt werden, ohne dass die Parteien im Einzelfall entscheiden können, ob sie ein VC-Geschäft mit einem bestimmten Vertragspartner eingehen wollen. Ob der Vertrag anschließend innerhalb des Systems abgewickelt wird, ist ohne Belang. 
 
 ## Praktische Voraussetzungen
 Vergleich AuxMoney (Deutscher P2P-Anbieter)
-•	Erlaubnis zur Darlehensvermittlung nach § 34c Abs. 1 S. 1 Nr. 2 GewO
-•	Erlaubnis zur Finanzanlagenvermittlung nach § 34f Abs. 1 S. 1 Nr. 3 GewO
-•	Erlaubnis zur Versicherungsvermittlung nach § 34d Abs. 1 GewO 
-•	Eintragung ins Vermittlerregister (www.vermittlerregister.info)
+- Erlaubnis zur Darlehensvermittlung nach § 34c Abs. 1 S. 1 Nr. 2 GewO
+- Erlaubnis zur Finanzanlagenvermittlung nach § 34f Abs. 1 S. 1 Nr. 3 GewO
+- Erlaubnis zur Versicherungsvermittlung nach § 34d Abs. 1 GewO 
+- Eintragung ins Vermittlerregister (www.vermittlerregister.info)
 
 Schlichtungsstelle bei der Deutschen Bundesbank
 Postfach 10 06 02
