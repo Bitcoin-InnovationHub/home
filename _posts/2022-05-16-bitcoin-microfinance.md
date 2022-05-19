@@ -13,7 +13,7 @@ Table of Contents
     	- [Digital Lending](#Digital-Lending)
     	- [Digital Saving](#Digital-Saving)
     - [Regulatorische Voraussetzungen](#Regulatorische-Voraussetzungen)
-    	- [Kryptowertetransferverordnung (KryptoWTransferV)](#Kryptowertetransferverordnung-(KryptoWTransferV)
+    	- [Kryptowertetransferverordnung (KryptoWTransferV)](#Kryptowertetransferverordnung-KryptoWTransferV)
   - [Regulatorische Voraussetzungen](#assemble-your-raspiblitz)
   - [Downloading the Software](#downloading-the-software)
   - [Write the SD-Card image to your SD Card](#write-the-sd-card-image-to-your-sd-card)
