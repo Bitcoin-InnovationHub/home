@@ -175,7 +175,7 @@ Liegt bei Plattformen kein Finanzkommissionsgeschäft vor, kann es sich um den B
 	- Eintragung ins Vermittlerregister (www.vermittlerregister.info)
 
 - Schlichtungsstelle bei der Deutschen Bundesbank
-	- Postfach 10 06 02
+Postfach 10 06 02
 	- 60006 Frankfurt am Main
 	- Wilhelm-Epstein-Straße 14
 	- 60431 Frankfurt am Main
