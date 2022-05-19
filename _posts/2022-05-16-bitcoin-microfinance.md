@@ -5,6 +5,20 @@ categories:
   - Development Aid
 author_staff_member: anna
 ---
+
+Fallstudie für ein nachhaltiges, inklusives, digitales Ökosystem auf Bitcoin
+
+<section class="testimonial">
+		<div class="container flex">
+			<div class="testimonial-block">
+				<blockquote>
+					<p class="editable">Wenn Sie das Leben dieser Menschen verändern wollen, bringen Sie ihnen etwas über Finanzen bei. Keiner lehrte uns je, was Geld ist. Zu lange hat sich die gleiche Geschichte immer und immer wiederholt: Das Geld, das wir jeden Monat verdienen, wird sofort ohne Nachdenken ausgegeben.</p>
+					<p class="editable author">Roman Martínez – El Zonte, El Salvador</p>
+				</blockquote>
+			</div>
+		</div>
+	</section>
+	
 Table of Contents
 ---
   - [Hintergrund](#Hintergrund)
@@ -24,19 +38,6 @@ Table of Contents
     - [Community](#Community)
     - [Potentielle Projektpartner](#Potentielle-Projektpartner)
 
-
-Fallstudie für ein nachhaltiges, inklusives, digitales Ökosystem auf Bitcoin
-
-<section class="testimonial">
-		<div class="container flex">
-			<div class="testimonial-block">
-				<blockquote>
-					<p class="editable">Wenn Sie das Leben dieser Menschen verändern wollen, bringen Sie ihnen etwas über Finanzen bei. Keiner lehrte uns je, was Geld ist. Zu lange hat sich die gleiche Geschichte immer und immer wiederholt: Das Geld, das wir jeden Monat verdienen, wird sofort ohne Nachdenken ausgegeben.</p>
-					<p class="editable author">Roman Martínez – El Zonte, El Salvador</p>
-				</blockquote>
-			</div>
-		</div>
-	</section>
 
 # Hintergrund
 
