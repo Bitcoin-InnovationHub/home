@@ -52,6 +52,7 @@ Alternative:
 Auslagerung; Die Kooperation zwischen Bank und Startup kann als Auslagerung auf das FinTech stattfinden. In diesem Fall muss die Bank gem. §§ 25b, 25c Abs. 4a Nr. 6 KWG darauf achten, dass das FinTech bestimmte aufsichtsrechtliche Anforderungen erfüllt. Dazu gehört auch, mit einer schriftlich fixierten Struktur und klaren Zuständigkeiten eine ordnungsgemäße Organisation nach-zuweisen.
 
 ### Digital Saving
+asdasd
 
 ## Regulatorische Voraussetzungen
 ### Verordnung über verstärkte Sorgfaltspflichten bei dem Transfer von Kryptowerten (Kryptowertetransferverordnung - KryptoWTransferV) 
