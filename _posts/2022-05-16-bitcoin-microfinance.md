@@ -18,12 +18,13 @@ Table of Contents
     	- [Änderung ab 2022 durch MiCAR](#Änderung-ab-2022-durch-MiCAR)
     	- [Darlehensvermittler (§ 34c Abs. 1 S. 1 GewO)](#Darlehensvermittler-(§-34c-Abs.-1-S.-1-GewO))
     	- [Erlaubnispflicht für das Kryptoverwahrgeschäft nach deutschem Recht](#Erlaubnispflicht-für-das-Kryptoverwahrgeschäft-nach-deutschem-Recht)
-    	- Erlaubnispflicht für das Geschäft mit virtuellen Währungen (VC) nach deutschem Recht])Erlaubnispflicht-für-das-Geschäft-mit-virtuellen-Währungen-(VC)-nach-deutschem-Recht)
-  - [Regulatorische Voraussetzungen](#assemble-your-raspiblitz)
-  - [Downloading the Software](#downloading-the-software)
-  - [Write the SD-Card image to your SD Card](#write-the-sd-card-image-to-your-sd-card)
-  - [Boot your RaspiBlitz](#boot-your-raspiblitz)
-  - [Support](#support)
+    	- Erlaubnispflicht für das Geschäft mit virtuellen Währungen (VC) nach deutschem Recht](#Erlaubnispflicht-für-das-Geschäft-mit-virtuellen-Währungen-(VC)-nach-deutschem-Recht)
+    - [Praktische Voraussetzungen](#Praktische-Voraussetzungen)
+- [Unterstützung](#Unterstützung)
+    - [Community](#Community)
+    - [Potentielle Projektpartner](#Potentielle-Projektpartner)
+
+
 Fallstudie für ein nachhaltiges, inklusives, digitales Ökosystem auf Bitcoin
 
 <section class="testimonial">
@@ -181,9 +182,11 @@ Tel.: +49 69 9566-3232
 Fax: +49 69 709090-9901
 Website: https://www.bundesbank.de/de/service/schlichtungsstelle
 
-## Unterstützung
+# Unterstützung
 
-# Potentielle Projektpartner
+## Comunity
+
+## Potentielle Projektpartner
 1. [Europäische Investitionsbank](https://www.eib.org/de/index.htm)
 2. [DEG Deutsche Investitions- und Entwicklungsgesellschaft](https://www.deginvest.de/)
 3. [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)](https://www.giz.de/de/html/index.html)
