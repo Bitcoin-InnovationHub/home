@@ -100,31 +100,30 @@ Gem. Art. 53 ff. MiCAR benötigen Dienstleister, die bestimmte Dienstleistungen 
 Anforderungen an Anbieter von Krypto-Dienstleistungen, Art. 60 MiCAR
 Mindestkapitalanforderungen Art. 60 Abs. 1 lit. a MiCAR i.V.m. Anhang IV:
 
-- Klasse 1: 50.000 EUR
-	- Annahme und Übermittlung von Aufträgen für Dritte und/oder
-	- Beratung zu Kryptowerten und/oder
-	- Ausführung von Aufträgen für Dritte und/oder
-	- Platzierung von Kryptowerten
+	- Klasse 1: 50.000 EUR
+		- Annahme und Übermittlung von Aufträgen für Dritte und/oder
+		- Beratung zu Kryptowerten und/oder
+		- Ausführung von Aufträgen für Dritte und/oder
+		- Platzierung von Kryptowerten
 
-- Klasse 2: 125.000 EUR
-Klasse 1 + Verwahrung und Verwaltung von Kryptowerten für Dritte
+	- Klasse 2: 125.000 EUR
+	Klasse 1 + Verwahrung und Verwaltung von Kryptowerten für Dritte
 
-- Klasse 3: 150.000 EUR
-Klasse 2 +
-	- Tausch von Kryptowerten gegen Nominalgeldwährungen, die gesetzliche Zah-lungsmittel sind
-	- Tausch von Kryptowerten gegen andere Kryptowerte
-- Betrieb einer Handelsplattform für Kryptowerte
+	- Klasse 3: 150.000 EUR
+	Klasse 2 +
+		- Tausch von Kryptowerten gegen Nominalgeldwährungen, die gesetzliche Zah-lungsmittel sind
+		- Tausch von Kryptowerten gegen andere Kryptowerte
+		- Betrieb einer Handelsplattform für Kryptowerte
 
-•	einem Viertel der jährlich neu berechneten fixen Gemeinkosten des Vorjahres, Art. 60 Abs. 1 lit. b MiCAR; Gemeinkosten = alle Kosten, die nicht direkt einem Produkt oder einer Dienstleis-tung zugeordnet werden können.
+- einem Viertel der jährlich neu berechneten fixen Gemeinkosten des Vorjahres, Art. 60 Abs. 1 lit. b MiCAR; Gemeinkosten = alle Kosten, die nicht direkt einem Produkt oder einer Dienstleis-tung zugeordnet werden können.
 
-•	Die aufsichtsrechtlichen Sicherheitsvorkehrungen nach Abs. 1 können erfolgen (Art. 60 Abs. 2 MiCAR:
-•	in Form von Eigenmitteln
-•	in Form einer Versicherungspolice oder in Form einer vergleichbaren Garantie
-
-•	Sichere Aufbewahrung der Kryptowerte und Geldbeträge von Kunden, Art. 63 MiCAR:
-•	Anbieter von Krypto-Dienstleistungen, die Kryptowerte von Kunden oder die Mittel für den Zugang zu solchen Kryptowerten halten, treffen angemessene Vorkehrungen, um insbesondere im Falle der Insolvenz des Anbieters von Krypto-Dienstleistungen die Ei-gentumsrechte der Kunden zu schützen und zu verhindern, dass Kryptowerte eines Kunden für eigene Rechnung verwendet werden, es sei denn, der Kunde hat hierzu ausdrücklich seine Zustimmung erteilt.
-•	Anbieter von Krypto-Dienstleistungen zahlen Geldbeträge von Kunden unverzüglich bei einer Zentralbank oder einem Kreditinstitut ein.
-•	Verwahrung und Verwaltung von Kryptowerten für Dritte, Art. 67 MiCAR
+- Die aufsichtsrechtlichen Sicherheitsvorkehrungen nach Abs. 1 können erfolgen (Art. 60 Abs. 2 MiCAR:
+- in Form von Eigenmitteln
+- in Form einer Versicherungspolice oder in Form einer vergleichbaren Garantie
+- Sichere Aufbewahrung der Kryptowerte und Geldbeträge von Kunden, Art. 63 MiCAR:
+	- Anbieter von Krypto-Dienstleistungen, die Kryptowerte von Kunden oder die Mittel für den Zugang zu solchen Kryptowerten halten, treffen angemessene Vorkehrungen, um insbesondere im Falle der Insolvenz des Anbieters von Krypto-Dienstleistungen die Ei-gentumsrechte der Kunden zu schützen und zu verhindern, dass Kryptowerte eines Kunden für eigene Rechnung verwendet werden, es sei denn, der Kunde hat hierzu ausdrücklich seine Zustimmung erteilt.
+	- Anbieter von Krypto-Dienstleistungen zahlen Geldbeträge von Kunden unverzüglich bei einer Zentralbank oder einem Kreditinstitut ein.
+- Verwahrung und Verwaltung von Kryptowerten für Dritte, Art. 67 MiCAR
 Anbieter von Krypto-Dienstleistungen, die für die Verwahrung und Verwaltung von Kryptower-ten für Dritte zugelassen sind, schließen mit ihren Kunden eine Vereinbarung, in der ihre Pflich-ten und Aufgaben festgelegt werden.
 
 ### Darlehensvermittler, § 34c Abs. 1 S. 1 GewO
