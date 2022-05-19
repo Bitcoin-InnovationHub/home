@@ -18,7 +18,7 @@ Table of Contents
     	- [Änderung ab 2022 durch MiCAR](#Änderung-ab-2022-durch-MiCAR)
     	- [Darlehensvermittler (§ 34c Abs. 1 S. 1 GewO)](#Darlehensvermittler-(§-34c-Abs.-1-S.-1-GewO))
     	- [Erlaubnispflicht für das Kryptoverwahrgeschäft nach deutschem Recht](#Erlaubnispflicht-für-das-Kryptoverwahrgeschäft-nach-deutschem-Recht)
-    	- Erlaubnispflicht für das Geschäft mit virtuellen Währungen nach deutschem Recht](#Erlaubnispflicht-für-das-Geschäft-mit-virtuellen-Währungen-nach-deutschem-Recht))
+    	- Erlaubnispflicht für das Geschäft mit virtuellen Währungen nach deutschem Recht](#Erlaubnispflicht-für-das-Geschäft-mit-virtuellen-Währungen-nach-deutschem-Recht)
     - [Praktische Voraussetzungen](#Praktische-Voraussetzungen)
 - [Unterstützung](#Unterstützung)
     - [Community](#Community)
