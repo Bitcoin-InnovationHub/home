@@ -3,7 +3,7 @@ date: 2022-05-16
 title: Bitcoin Microfinance via the Lightning Network [Work in Progress] &#127465;&#127466;
 categories:
   - Development Aid
-author_staff_member: anna
+author_staff_member: BlueBallroom
 ---
 
 Fallstudie für ein nachhaltiges, inklusives, digitales Ökosystem auf Bitcoin
@@ -40,6 +40,12 @@ Table of Contents
 
 
 # Hintergrund
+El Salvador hat mit der Einführung des Bitcoins als gesetzliches Zahlungsmittel weltweit erstmalig einen Rechtsraum für die Errichtung eines Marktes zur unmittelbaren und barrierefreie Kreditver-mittlung geschaffen. Dies ermöglicht den Einsatz von Mikrofinanz-Dienstleistungen ohne zwischengeschaltete Finanzintermediäre. 
+In Ländern des globalen Südens ist der Zugang zu Kapital aus praktischen, regulatorischen und technischen Gründen für einen Großteil der Bevölkerung stark begrenzt. So besitzen in El Salvador ca. 70% der Bevölkerung kein Bankkonto und sind damit effektiv von traditionellen Bankgeschäften ausgeschlossen. Zugleich begrenzt die Dominanz des informellen Sektors die Möglichkeiten für eine nachhaltige Erwerbstätigkeit drastisch. Der Weg aus der Armut hängt indes maßgeblich von der Fähigkeit zur unternehmerischen Betätigung ab. Mangels Kapital ist diese auf die Sicherstellung des Lebensunterhaltes begrenzt. Der Aufbau von tragfähigen Geschäftsmodellen hängt im Regelfall von einer Anfangsinvestition ab, was aufgrund der vorherrschenden Armut und dem fehlenden Zugang zu Fremdkapital nur bedingt möglich ist.
+
+Mikrofinanz-Lösungen ermöglichen es Menschen ohne Zugang zu traditionellen Bankdienstleistungen eine solche Anfangsinvestition durch Bereitstellung von Fremdkapital zu tätigen. Weltweit werden Mikrofinanzinstitute (MFIs)  mit einer nicht zu bewältigenden Kapitalnachfrage bei stark begrenztem Kapitalangebot konfrontiert. Dieser Umstand stand einer flächendeckenden finanziellen Inklusion bislang weitestgehend entgegen. Eine ausreichende Kapitalausstattung von MFIs hätte durch spezialisierte Investmentfonds erfolgen sollen. Die nicht unerhebliche Risikoexposition bei oftmals unterdurchschnittlicher Kapitalrendite sorgten bislang für ein nur geringes Anlegerinteresse. Stattdessen wurden Mikrofinanzanlagen bislang überwiegend aus entwicklungspolitischen Gründen und zu Diversifikationszwecken nachgefragt.
+
+Im Gegensatz dazu ermöglicht die Bitcoin-basierte Mikrofinanzierung wegen der deflationären Eigenschaften von Bitcoin einen inhärenten Wertzuwachs, der die positiven Aspekte der humanitären Unterstützung (vgl. Sozialrendite) mit kapitalistischen Aspekten kombiniert, ohne dass dies zulasten der Kreditnehmer ginge. Durch den einfachen Zugang zum Bitcoin-Netzwerk soll mit Pirvatanlegern eine gänzlich neue Zielgruppe angesprochen werden. Dadurch, dass sowohl in Industrieländern als auch in Eetwicklungsländern große Teile der Bevölkerung über Smartphones bereits an das Internet angeschlossen sind, können Bitcoin-Zahlungen jederzeit empfangen und versendet werden. Ein digitales Zahlungsnetzwerk hat sich bereits an anderen Orten etablieren können und damit einen erheblichen Mehrwert für die ärmsten Teile der Bevölkerung ermöglicht. Um die Adoption des Bitcoin-Zahlungsnetzwerks voranzutreiben, bedarf es einer Kapitalausstattung, die über eine Kreditplattform bereitgestellt werden kann. Ausphilantropischen Gründen könnte das eingebrachte Kapital dem Zahlungsnetzwerk nach Rückzahlung der Kreditsumme erhalten bleiben. Ebenso erhalten bleibt der positive auf die Entwicklungsförderung in Form der aufgebauten Unternehmen. 
 
 # Machbarkeit
 
