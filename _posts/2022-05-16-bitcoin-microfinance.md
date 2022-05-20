@@ -20,7 +20,9 @@ Fallstudie für ein nachhaltiges, inklusives, digitales Ökosystem auf Bitcoin
 	</section>
 
 # Zusammenfassung
-Durch Aufbau einer P2P-Kreditplattform sollen Mikrofinanz-Lösungen auf Basis des Bitcoin-Netzwerks ermöglicht werden. Im Mittelpunkt steht die Allokation von Kapital ohne Zeitzäsur, Bürokratie, Kostenaufwand und insbesondere ohne Intermediäre. Besonderheit ist, dass in Ländern, in denen Bitcoin gesetzliches Zahlungsmittel ist, kein Währungsrisiko für die Parteien besteht. Unter einem Bitcoin-Standard gibt es zudem keine lokal auftretende Inflation, die die Rückzahlungsfähigkeit der Mikrokredite beeinflussen würde. Die Volatilität von Bitcoin wird irrelevant, sobald nicht mehr in einem anderen Denominator gerechnet wird. Durch Level-2 Lösungen erfolgt ein unmittelbares Settlement, sodass kein Erfüllungsrisiko besteht. Für die Nutzung dieser Technologie sowie die Anbindung an das globale Bitcoin-Zahlungsnetzwerk bedarf der Kreditnehmer keines spezifischen Wissens über Bitcoin oder Kryptowährungen generell. Alle relevanten technischen Voraussetzungen sind somit bereits vorhanden.
+Durch Aufbau einer P2P-Kreditplattform sollen Mikrofinanz-Lösungen auf Basis des Bitcoin-Netzwerks ermöglicht werden. Im Mittelpunkt steht die Allokation von Kapital ohne Zeitzäsur, Bürokratie, Kostenaufwand und insbesondere ohne Intermediäre. 
+Besonderheit ist, dass in Ländern, in denen Bitcoin gesetzliches Zahlungsmittel ist, kein Währungsrisiko für die Parteien besteht. Unter einem Bitcoin-Standard gibt es zudem keine lokal auftretende Inflation, die die Rückzahlungsfähigkeit der Mikrokredite beeinflussen würde. Die Volatilität von Bitcoin wird irrelevant, sobald nicht mehr in einem anderen Denominator gerechnet wird. Durch Level-2 Lösungen erfolgt ein unmittelbares Settlement, sodass kein Erfüllungsrisiko besteht.
+Für die Nutzung dieser Technologie sowie die Anbindung an das globale Bitcoin-Zahlungsnetzwerk bedarf der Kreditnehmer keines spezifischen Wissens über Bitcoin oder Kryptowährungen generell. Alle relevanten technischen Voraussetzungen sind somit bereits vorhanden.
 
 Table of Contents
 ---
@@ -41,6 +43,8 @@ Table of Contents
     - [Community](#Community)
     - [Potentielle Projektpartner](#Potentielle-Projektpartner)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RA9N9EywXa0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Hintergrund
 El Salvador hat mit der Einführung des Bitcoins als gesetzliches Zahlungsmittel weltweit erstmalig einen Rechtsraum für die Errichtung eines Marktes zur unmittelbaren und barrierefreie Kreditver-mittlung geschaffen. Dies ermöglicht den Einsatz von Mikrofinanz-Dienstleistungen ohne zwischengeschaltete Finanzintermediäre. 
