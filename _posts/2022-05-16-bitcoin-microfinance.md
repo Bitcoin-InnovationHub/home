@@ -205,6 +205,7 @@ Liegt bei Plattformen kein Finanzkommissionsgeschäft vor, kann es sich um den B
 	- Erlaubnis zur Versicherungsvermittlung nach § 34d Abs. 1 GewO 
 	- Eintragung ins Vermittlerregister (www.vermittlerregister.info)
 
+
 - Schlichtungsstelle bei der Deutschen Bundesbank
 	- Postfach 10 06 02
 	- 60006 Frankfurt am Main
