@@ -130,30 +130,49 @@ Gem. Art. 53 ff. MiCAR benötigen Dienstleister, die bestimmte Dienstleistungen 
 - einem Viertel der jährlich neu berechneten fixen Gemeinkosten des Vorjahres, Art. 60 Abs. 1 lit. b MiCAR; Gemeinkosten = alle Kosten, die nicht direkt einem Produkt oder einer Dienstleis-tung zugeordnet werden können.
 
 - Die aufsichtsrechtlichen Sicherheitsvorkehrungen nach Abs. 1 können erfolgen (Art. 60 Abs. 2 MiCAR:
-- in Form von Eigenmitteln
-- in Form einer Versicherungspolice oder in Form einer vergleichbaren Garantie
-- Sichere Aufbewahrung der Kryptowerte und Geldbeträge von Kunden, Art. 63 MiCAR:
-	- Anbieter von Krypto-Dienstleistungen, die Kryptowerte von Kunden oder die Mittel für den Zugang zu solchen Kryptowerten halten, treffen angemessene Vorkehrungen, um insbesondere im Falle der Insolvenz des Anbieters von Krypto-Dienstleistungen die Ei-gentumsrechte der Kunden zu schützen und zu verhindern, dass Kryptowerte eines Kunden für eigene Rechnung verwendet werden, es sei denn, der Kunde hat hierzu ausdrücklich seine Zustimmung erteilt.
-	- Anbieter von Krypto-Dienstleistungen zahlen Geldbeträge von Kunden unverzüglich bei einer Zentralbank oder einem Kreditinstitut ein.
-- Verwahrung und Verwaltung von Kryptowerten für Dritte, Art. 67 MiCAR
+
+	- in Form von Eigenmitteln
+	
+	- in Form einer Versicherungspolice oder in Form einer vergleichbaren Garantie
+
+	- Sichere Aufbewahrung der Kryptowerte und Geldbeträge von Kunden, Art. 63 MiCAR:
+
+		- Anbieter von Krypto-Dienstleistungen, die Kryptowerte von Kunden oder die Mittel für den Zugang zu solchen Kryptowerten halten, treffen angemessene Vorkehrungen, um insbesondere im Falle der Insolvenz des Anbieters von Krypto-Dienstleistungen die Ei-gentumsrechte der Kunden zu schützen und zu verhindern, dass Kryptowerte eines Kunden für eigene Rechnung verwendet werden, es sei denn, der Kunde hat hierzu ausdrücklich seine Zustimmung erteilt.
+	
+		- Anbieter von Krypto-Dienstleistungen zahlen Geldbeträge von Kunden unverzüglich bei einer Zentralbank oder einem Kreditinstitut ein.
+
+	- Verwahrung und Verwaltung von Kryptowerten für Dritte, Art. 67 MiCAR
 Anbieter von Krypto-Dienstleistungen, die für die Verwahrung und Verwaltung von Kryptower-ten für Dritte zugelassen sind, schließen mit ihren Kunden eine Vereinbarung, in der ihre Pflich-ten und Aufgaben festgelegt werden.
 
 ### Darlehensvermittler, § 34c Abs. 1 S. 1 GewO
 Eine Erlaubnispflicht gem. § 34c Abs. 1 S. 1 GewO besteht nur, wenn die dort aufgeführten Tätig-keiten gewerbsmäßig ausgeübt werden. Dabei gilt grundsätzlich der allgemeine Gewerbebegriff iSd § 1 GewO. Dieser setzt voraus, dass die Tätigkeit – in positiver Hinsicht – selbstständig, erlaubt, auf Gewinnerzielung und gewisse Dauer gerichtet sein muss und – in negativer Hinsicht – keine Urpro-duktion, keinen freien Beruf und nicht die bloße Nutzung oder Verwaltung eigenen Vermögens oder eine andere gewerberechtliche Bagatelle darstellen darf (vgl. etwa BVerwGE 78, 6 (8) = NVwZ 1988, 56).
 Die von § 34c GewO erfassten Gewerbetreibenden haben aus der Gewerbefreiheit des § 1 Abs. 1 GewO sowie der Berufsfreiheit des Art. 12 Abs. 1 S. 1 GG einen Anspruch (subjektives öffentliches Recht) auf Erteilung der Erlaubnis gem. § 34c Abs. 1 S. 1 GewO, wenn sie die gesetzlichen Voraus-setzungen erfüllen. Bei der Erlaubnis handelt es sich um einen gebundenen Verwaltungsakt, der ergehen muss, wenn keiner der Versagungsgründe des § 34c Abs. 2 GewO vorliegt.
 Voraussetzungen einer Erlaubnis gem. § 34c Abs. 1 S. 1 GewO sind:
+
 - der Wille zur gewerbsmäßigen Ausübung einer der Tätigkeiten gem. § 34c Abs. 1 S. 1 Nr. 1-4 GewO
+
 - ein Antrag auf Erteilung der Erlaubnis und
+
 - das Nichteingreifen eines der Versagungsgründe gem. § 34c Abs. 2 GewO
+
 	- Fehlende Zuverlässigkeit
+
 	- Leben in ungeordneten Vermögensverhältnissen
+
 Neben dem ausgefüllten Antrag für § 34c GewO muss eingereicht werden:
+
 - Personalausweis oder Reisepass (Kopie)
+
 - Unbedenklichkeitsbescheinigung Ihres Finanzamts
+
 - Unbedenklichkeitsbescheinigung Ihres Steueramts
+
 - Auszug aus der Schuldnerkartei des zuständigen Amtsgerichts
+
 - Bescheinigung des Insolvenzgerichts
+
 - Führungszeugnis der Belegart O (polizeiliches Führungszeugnis)
+
 - Auszug aus dem Gewerbezentralregister
 
 Zusätzlich gilt die Verordnung über die Pflichten der Immobilienmakler, Darlehensvermittler, Bau-träger, Baubetreuer und Wohnimmobilienverwalter (MaBV).
@@ -167,10 +186,14 @@ Fallen Kryptowerte unter den Finanzinstrumentebegriff des Art. 2 Abs. 1 Nr. 8 de
 ### Erlaubnispflicht für das Geschäft mit virtuellen Währungen nach deutschem Recht
 Bitcoin stellen als Kryptowerte nach § 1 Abs. 11 Satz 1 Nr. 10 KWG Finanzinstrumente dar.
 Derjenige, der im eigenen Namen gewerbsmäßig VC für fremde Rechnung an- und verkauft, be-treibt ein erlaubnispflichtiges Finanzkommissionsgeschäft, vgl. § 1 Abs. 1 Nr. 4 KWG. 
-Die Anschaffung oder Veräußerung der VC erfolgt für fremde Rechnung, wenn die wirtschaftlichen Vor- und Nachteile aus diesem Geschäft den Auftraggeber treffen. Des Weiteren muss die Tätigkeit dem Kommissionsgeschäft nach dem Handelsgesetzbuch hinreichend ähnlich sein, wobei einzelne Rechte und Pflichten vom typischen Kommissionsgeschäft abweichen können. Bei VC-Plattformen ist daher das erlaubnispflichtige Finanzkommissiongeschäft erfüllt, wenn: 
+Die Anschaffung oder Veräußerung der VC erfolgt für fremde Rechnung, wenn die wirtschaftlichen Vor- und Nachteile aus diesem Geschäft den Auftraggeber treffen. Des Weiteren muss die Tätigkeit dem Kommissionsgeschäft nach dem Handelsgesetzbuch hinreichend ähnlich sein, wobei einzelne Rechte und Pflichten vom typischen Kommissionsgeschäft abweichen können. Bei VC-Plattformen ist daher das erlaubnispflichtige Finanzkommissiongeschäft erfüllt, wenn:
+
 - die einzelnen Teilnehmer den Plattformen gegenüber bis zur Ausführung der Order wei-sungsbefugt sind, indem sie die Zahl und den Preis der Geschäfte vorgeben,
+
 - den jeweiligen Teilnehmern ihre Handelspartner nicht bekannt sind und die Plattform nicht als Vertreter der Teilnehmer, sondern im eigenen Namen auftritt,
+
 - die wirtschaftlichen Vor- und Nachteile der Geschäfte die Teilnehmer treffen, die Geld auf Plattform-Konten überweisen oder VC auf deren Adressen übertragen, und
+
 - die Plattform verpflichtet ist, den Teilnehmern über die Ausführung der Geschäfte Rechen-schaft abzulegen und angeschaffte VC zu übertragen.
 
 Liegt bei Plattformen kein Finanzkommissionsgeschäft vor, kann es sich um den Betrieb eines mul-tilateralen Handelssystems handeln (vgl. § 1 Abs. 1 Nr. 1b KWG). Dieses bringt die Interessen einer Vielzahl von Personen am Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems nach festgelegten Bestimmungen in einer Weise zusammen, die zu einem Vertrag über diese Finanzin-strumente führt. Dies bedeutet, dass ein Regelwerk über die Mitgliedschaft, den VC-Handel zwi-schen den Mitgliedern und Meldungen über abgeschlossene Geschäfte vorliegt. Eine Handelsplatt-form im technischen Sinne ist nicht erforderlich. Multilateral bedeutet, dass der Betreiber nur die Parteien eines potenziellen Geschäfts über VC zusammenbringt. Als Interesse am Kauf und Verkauf zählen auch Interessenbekundungen, Aufträge und Kursofferten. Eine Vielzahl von Personen be-deutet vor allem, dass es nicht eines Auftrags zur Vermittlung im Einzelfall bedarf. Die Interessen müssen nach dem Regelwerk durch Software oder Protokolle zum Vertragsabschluss zusammenge-führt werden, ohne dass die Parteien im Einzelfall entscheiden können, ob sie ein VC-Geschäft mit einem bestimmten Vertragspartner eingehen wollen. Ob der Vertrag anschließend innerhalb des Systems abgewickelt wird, ist ohne Belang. 
