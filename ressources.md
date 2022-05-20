@@ -15,6 +15,16 @@ You have to create your own GitHub repository for each individual project. Other
 
 ## Contribute a project
 
+### Submit your Roadmap
+
+1. You can submit your roadmap or business plan via email (bitcoin-innovationhub@pm.me).
+
+2. We will create the project post for you.
+
+3. If you would like to commit any changes, please refer to the next paragraph.
+
+### Create your project post on GitHub
+
 1. On GitHub, navigate to this [site's repository](https://github.com/Bitcoin-InnovationHub/home).
 
 2. Navigate to the [_posts directory](https://github.com/Bitcoin-InnovationHub/home/tree/main/_posts).
