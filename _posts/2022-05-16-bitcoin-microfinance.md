@@ -25,7 +25,7 @@ Besonderheit ist, dass in Ländern, in denen Bitcoin gesetzliches Zahlungsmittel
 Für die Nutzung dieser Technologie sowie die Anbindung an das globale Bitcoin-Zahlungsnetzwerk bedarf der Kreditnehmer keines spezifischen Wissens über Bitcoin oder Kryptowährungen generell. Alle relevanten technischen Voraussetzungen sind somit bereits vorhanden.
 
 
-Table of Contents
+Inhaltsverzeichnis
 ---
   - [Hintergrund](#Hintergrund)
   - [Machbarkeit](#Machbarkeit)
