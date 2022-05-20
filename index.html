@@ -10,12 +10,31 @@ description: The place to promote your Bitcoin projects
 		<p class="subtext editable">Where thinkers and makers team up to shape the future of a Bitcoin-based economy.</p>
 		<div class="cta button alt"><a href="{{ site.baseurl }}/blog/">Get Inolved</a></div>
 		<div>
-			<img src="{{ site.baseurl }}/images/dashboard.png"/>
-			<div id="wrapperDiv">
-			<div id="div1" style="padding:20px;background-color:#decddd;float:left">Div tag 1</div>
-			<div id="div2" style="padding:20px;background-color:#cedddd;float:left">Div tag 2</div>
-				
-				<div class="row">
+		
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>			
+			
   <div class="column">
     <img src="{{ site.baseurl }}/images/dashboard.png" alt="Snow" style="width:100%">
   </div>
