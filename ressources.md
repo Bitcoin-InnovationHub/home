@@ -23,6 +23,8 @@ You have to create your own GitHub repository for each individual project. Other
 
 3. If you would like to commit any changes, please refer to the next paragraph.
 
+
+
 ### Create your project post on GitHub
 
 1. On GitHub, navigate to this [site's repository](https://github.com/Bitcoin-InnovationHub/home).
