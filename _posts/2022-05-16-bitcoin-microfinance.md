@@ -104,7 +104,7 @@ Gem. Art. 53 ff. MiCAR benötigen Dienstleister, die bestimmte Dienstleistungen 
 <strong>Anforderungen an Anbieter von Krypto-Dienstleistungen, Art. 60 MiCAR</strong>
 
 - Mindestkapitalanforderungen Art. 60 Abs. 1 lit. a MiCAR i.V.m. Anhang IV:
-- 
+
 	- Klasse 1: 50.000 EUR
 
 		- Annahme und Übermittlung von Aufträgen für Dritte und/oder
