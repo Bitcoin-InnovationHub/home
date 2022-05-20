@@ -104,7 +104,9 @@ Gem. Art. 53 ff. MiCAR benötigen Dienstleister, die bestimmte Dienstleistungen 
 <strong>Anforderungen an Anbieter von Krypto-Dienstleistungen, Art. 60 MiCAR</strong>
 
 - Mindestkapitalanforderungen Art. 60 Abs. 1 lit. a MiCAR i.V.m. Anhang IV:
+- 
 	- Klasse 1: 50.000 EUR
+	- 
 		- Annahme und Übermittlung von Aufträgen für Dritte und/oder
 		- Beratung zu Kryptowerten und/oder
 		- Ausführung von Aufträgen für Dritte und/oder
@@ -115,6 +117,7 @@ Gem. Art. 53 ff. MiCAR benötigen Dienstleister, die bestimmte Dienstleistungen 
 
 	- Klasse 3: 150.000 EUR
 	Klasse 2 +
+	
 		- Tausch von Kryptowerten gegen Nominalgeldwährungen, die gesetzliche Zah-lungsmittel sind
 		- Tausch von Kryptowerten gegen andere Kryptowerte
 		- Betrieb einer Handelsplattform für Kryptowerte
