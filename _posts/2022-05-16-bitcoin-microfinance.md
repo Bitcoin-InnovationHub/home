@@ -24,10 +24,6 @@ Durch Aufbau einer P2P-Kreditplattform sollen Mikrofinanz-Lösungen auf Basis de
 Besonderheit ist, dass in Ländern, in denen Bitcoin gesetzliches Zahlungsmittel ist, kein Währungsrisiko für die Parteien besteht. Unter einem Bitcoin-Standard gibt es zudem keine lokal auftretende Inflation, die die Rückzahlungsfähigkeit der Mikrokredite beeinflussen würde. Die Volatilität von Bitcoin wird irrelevant, sobald nicht mehr in einem anderen Denominator gerechnet wird. Durch Level-2 Lösungen erfolgt ein unmittelbares Settlement, sodass kein Erfüllungsrisiko besteht.
 Für die Nutzung dieser Technologie sowie die Anbindung an das globale Bitcoin-Zahlungsnetzwerk bedarf der Kreditnehmer keines spezifischen Wissens über Bitcoin oder Kryptowährungen generell. Alle relevanten technischen Voraussetzungen sind somit bereits vorhanden.
 
----
-driveId: 1z921mzZ6wPisTHZq7yQNRikS5WPL_i7i
----
-{% include googleDrivePlayer.html id=page.driveId %}
 
 Table of Contents
 ---
