@@ -1,5 +1,5 @@
 ---
-date: 2020-07-20
+date: 2022-06-12
 title: Remote Bitcoin Transaction via SMS-Gateway [Work in Progress]   &#127468;&#127463;
 categories:
   - Development Aid
