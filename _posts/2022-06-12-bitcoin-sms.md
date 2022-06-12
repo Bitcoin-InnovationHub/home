@@ -1,6 +1,6 @@
 ---
 date: 2022-06-12
-title: Remote Bitcoin Transaction via SMS-Gateway [Work in Progress]   &#127468;&#127463;
+title: Remote Bitcoin-Transactions via SMS-Gateway [Work in Progress]   &#127468;&#127463;
 categories:
   - Development Aid
 author_staff_member: BlueBallroom
